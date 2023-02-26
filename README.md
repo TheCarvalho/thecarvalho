@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-As a beginning developer with a passion for technology and an insatiable thirst for knowledge, I'm constantly seeking out new challenges and opportunities to learn and grow. With a strong foundation in coding and a drive to innovate, I'm excited to contribute to the dynamic and ever-evolving world of technology.
+I'm a beginning developer with a passion for technology and an insatiable thirst for knowledge, I'm constantly seeking out new challenges and opportunities to learn and grow. With a strong foundation in coding and a drive to innovate, I'm excited to contribute to the dynamic and ever-evolving world of technology.
 
 <!--ima fix this mess later-->
 ## 
