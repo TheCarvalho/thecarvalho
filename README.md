@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-- 🔭 Beginner Programmer
-- 🌱 Learning Python
-- 👀 Interested in VR and AR
+As a beginning developer with a passion for technology and an insatiable thirst for knowledge, I'm constantly seeking out new challenges and opportunities to learn and grow. With a strong foundation in coding and a drive to innovate, I'm excited to contribute to the dynamic and ever-evolving world of technology.
 
-##
+<!--ima fix this mess later-->
+## 
 <img height="335em" align="right" alt="gif" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif">
  <div>
   <a href="https://github.com/TheCarvalho">
